@@ -1,0 +1,25 @@
+1.  npm i --save
+2.  npm install @react-navigation/native
+3.  npm install react-native-reanimated 
+               react-native-gesture-handler 
+               react-native-screens 
+               react-native-safe-area-context 
+               @react-native-community/masked-view
+4.  npm i react-native-simple-radio-button --save
+5.  npm install @react-navigation/drawer
+6.  npm install react-native-vector-icons
+7.  Add the following things in android/app/build.gradle
+               apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
+8.  npm install react-navigation-material-bottom-tabs
+9.  npm install react-native-paper
+10. npm install @react-navigation/material-bottom-tabs react-native-paper
+11. npm i react-native-swiper
+12. npm i react-native-counters
+13. npm install express
+14. npm install nodemon
+15. npm install react-native-device-number --save
+16. npm i -S react-native-otp-textinput
+17. npm i @react-native-community/async-storage
+18. npm install react-native-device-info --save
+19. npm i react-native-image-crop-picker
+20. npm i react-native-swipe-list-view

@@ -1,0 +1,64 @@
+{
+  "name": "adapp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.12.1",
+    "@react-native-community/clipboard": "^1.5.1",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-navigation/drawer": "^5.12.5",
+    "@react-navigation/material-bottom-tabs": "^5.3.15",
+    "@react-navigation/native": "^5.9.4",
+    "@react-navigation/stack": "^5.12.8",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7",
+    "react": "16.13.1",
+    "react-native": "0.63.4",
+    "react-native-counters": "^1.2.0",
+    "react-native-device-number": "^1.0.5",
+    "react-native-gesture-handler": "^1.10.3",
+    "react-native-otp-textinput": "0.0.8",
+    "react-native-paper": "^4.7.2",
+    "react-native-reanimated": "^1.13.3",
+    "react-native-safe-area-context": "^3.2.0",
+    "react-native-screens": "^2.18.1",
+    "react-native-simple-radio-button": "^2.7.4",
+    "react-native-swipe-list-view": "^3.2.9",
+    "react-native-swiper": "^1.6.0",
+    "react-native-vector-icons": "^8.1.0",
+    "react-navigation": "^4.4.3",
+    "react-navigation-material-bottom-tabs": "^2.3.4"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/runtime": "^7.12.5",
+    "@react-native-community/eslint-config": "^2.0.0",
+    "babel-jest": "^26.6.3",
+    "eslint": "^7.16.0",
+    "jest": "^26.6.3",
+    "metro-react-native-babel-preset": "^0.64.0",
+    "react-test-renderer": "16.13.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "description": "��#\u0000 \u0000A\u0000d\u0000A\u0000p\u0000p\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkarmakarju/AdApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkarmakarju/AdApp/issues"
+  },
+  "homepage": "https://github.com/kkarmakarju/AdApp#readme"
+}
